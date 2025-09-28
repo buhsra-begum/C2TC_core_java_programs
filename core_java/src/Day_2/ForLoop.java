@@ -9,6 +9,6 @@ public class ForLoop {
 			System.out.print("Value of i:");
 			System.out.println(i);
 		}
-	}
+	} 
 
 }

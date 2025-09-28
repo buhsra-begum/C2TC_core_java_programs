@@ -4,7 +4,7 @@ public class Continue {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+	
 			for (int k = 5; k < 15; k++)
 			{
 			// Odd numbers are skipped

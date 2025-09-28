@@ -16,7 +16,7 @@ public class NestedIfElse {
 				System.out.println(c);
 			else
 				System.out.println(b);
-		}
+		} 
 	}
 
 }

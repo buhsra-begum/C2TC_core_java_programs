@@ -1,7 +1,7 @@
 package Day_2;
 
 public class DecisionMaking {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int x = 8, y = 7;

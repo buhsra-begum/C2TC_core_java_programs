@@ -18,7 +18,7 @@ public class Switch {
 		case 'w':
 		case 'W' :	
 			System.out.println(x+" is White Space");
-			break;
+			break; 
 		case 's':
 		case 'S':
 			System.out.println(x+" is Special Symbol");

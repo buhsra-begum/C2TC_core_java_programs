@@ -7,7 +7,7 @@ public class ForEachLoop {
 		int a[]= {10,20,30,40,50};	
 		//for integer array
 				for(int i:a)
-				{
+		 		{
 				System.out.println(i);	
 				}
 				

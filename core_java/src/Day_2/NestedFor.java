@@ -13,7 +13,7 @@ public class NestedFor {
 						System.out.println(i + "*" + j + "= " + i * j);
 					}
 					System.out.println();
-
+ 
 				}
 	}
 
