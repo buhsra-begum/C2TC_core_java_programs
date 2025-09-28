@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class PersonDemo {
 
 			public static void main(String[] args) {
-
 				//scanner object to accept user inputs
 				Scanner ob = new Scanner(System.in);
 				

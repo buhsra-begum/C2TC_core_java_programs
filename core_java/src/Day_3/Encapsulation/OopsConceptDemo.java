@@ -1,8 +1,6 @@
 package Day_3.Encapsulation;
 
 public class OopsConceptDemo {
-
-
 		// TODO Auto-generated method stub
 		private int serialNum;
 		private String name;

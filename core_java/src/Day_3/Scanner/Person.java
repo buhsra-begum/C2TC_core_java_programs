@@ -1,7 +1,6 @@
 package Day_3.Scanner;
 
 public class Person {
-
 		private String name;
 		private int income;
 		private String gender;

@@ -1,5 +1,4 @@
 package Day_3.Constructor;
-
 public class Customer {
 		// TODO Auto-generated method stub
 		 private String customerName;
