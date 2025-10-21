@@ -9,4 +9,4 @@ public interface Bank {
 	 void withdraw(Account account, double amount);
 	}
 
-
+ 
